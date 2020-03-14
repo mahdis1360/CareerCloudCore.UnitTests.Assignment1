@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CareerCloud.Pocos\CareerCloud.Pocos.csproj" />
+    <ProjectReference Include="..\CareerCloud.Pocos\CareerCloud.Pocos.csproj" />
   </ItemGroup>
 
 </Project>
